@@ -70,5 +70,5 @@ class WordCountMinimalTest(unittest.TestCase):
 
 
 if __name__ == '__main__':
-  logging.getLogger().setLevel(logging.INFO)
+  logging.getLogger().setLevel(logging.DEBUG)
   unittest.main()
